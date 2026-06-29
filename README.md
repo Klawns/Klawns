@@ -6,7 +6,7 @@ Me chamo Fabrício Klaus, tenho 18 anos e sou do Maranhão. Sou técnico em Info
 Tenho foco em desenvolvimento backend, estudando principalmente Java, Spring Boot e Go, enquanto continuo aprimorando meus conhecimentos em React e outras tecnologias do ecossistema web.
 
 <p align="left">
-    <a href="www.linkedin.com/in/fabricio-klaus" target="_blank">
+    <a href="https://www.linkedin.com/in/fabricio-klaus" target="_blank">
         <img
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
