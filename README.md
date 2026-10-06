@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Fabrício Klaus
+# Fabrício Klaus
 
 **`Desenvolvedor FullStack`**
 
